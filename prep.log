@@ -1,0 +1,12 @@
+Qflow project preparation output log Sat Jul 12 00:45:58 2025
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu050
+
+No actions specified on command line;
+creating qflow script file /home/shamili/shamili_project/rv32i_core/alu/qflow_exec.sh only.
+Uncomment lines in this file and source the file to run the flow.
+cat: /home/shamili/shamili_project/rv32i_core/alu/source/alu_tb.v: No such file or directory
